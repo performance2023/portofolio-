@@ -1,0 +1,14 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+}
+
+.wrappper{
+    width: 1024px;
+    margin: auto;
+}
+
+nav > .wrappper{
+    border: 1px solid black;
+}
